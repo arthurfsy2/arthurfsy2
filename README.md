@@ -1,32 +1,36 @@
-# Hi there, I'm Arthur! 👋
+<h2 align="left">Hi 👋! I'm Arthur, and I'm from China. I enjoy building personal blogs and working with Home Assistant. I'm a beginner in Python and web scraping, and I also enjoy running and cycling.</h2>
 
-![Profile Views](https://komarev.com/ghpvc/?username=arthurfsy2&style=flat-square)
+###
 
-## About Me
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=arthurfsy2&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=arthurfsy2&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-I am a passionate developer with a keen interest in web development, data science, and open-source projects. I love learning new technologies and applying them to solve real-world problems.
+###
 
-- 🌱 I’m currently learning **[insert technology or language here]**
-- 🔭 I’m currently working on **[insert project or task here]**
-- 👯 I’m looking to collaborate on **[insert type of projects here]**
-- 🤔 I’m looking for help with **[insert request for help here]**
-- 💬 Ask me about **[insert topics of expertise here]**
-- 📫 How to reach me: **[insert contact information here]**
-- ⚡ Fun fact: **[insert fun fact here]**
+<img align="right" height="150" src="https://raw.githubusercontent.com/arthurfsy2/arthurfsy2.github.io/main/src/.vuepress/public/logo1.jpg"  />
 
-## Languages and Tools
+###
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+</div>
 
-## GitHub Stats
+###
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthurfsy2&show_icons=true&theme=radical)
+<div align="left">
+  <a href="mailto:254904240@qq.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
-## Top Languages
+###
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=arthurfsy2&layout=compact&theme=radical)
+<br clear="both">
 
-## Connect with Me
+<img src="https://raw.githubusercontent.com/arthurfsy2/arthurfsy2/output/snake.svg" alt="Snake animation" />
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:254904240@qq.com)
+###
